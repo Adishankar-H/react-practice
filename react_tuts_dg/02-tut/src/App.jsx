@@ -22,7 +22,7 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <div className="card">
-        <p>Hello {handleNameChange()}</p>
+        <h2>Hello {handleNameChange()}</h2>
       </div>
     </>
   )
